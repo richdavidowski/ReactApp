@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#login-card {
+  border: solid 5px cornflowerblue;
+  max-width: 500px;
+  margin: 40px auto;
+}
+
+#login-card input {
+  width: 100%;
+}
